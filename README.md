@@ -1,0 +1,1 @@
+Correlation results should be interpreted carefully. The sample dataset contains only 2 months × 6 districts, so Pearson correlations may be unstable.
